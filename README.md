@@ -6,7 +6,7 @@ Detects is a given point is in a given polygon. Based off of http://assemblysys.
 
 ## Getting Started
 ### Installation
-- The Point in polygon package is published on the [npm](https://www.npmjs.com/package/point-in-polygon) Registry. 
+- The Point in polygon package is published on the [npm](https://www.npmjs.com/package/assemblysys-point-in-polygon) Registry. 
 - Install the package :
     `npm install assemblysys-point-in-polygon`
 
