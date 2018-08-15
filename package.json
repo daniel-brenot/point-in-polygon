@@ -1,0 +1,34 @@
+{
+  "name": "assemblysys-point-in-polygon",
+  "version": "0.0.3",
+  "description": "An adaptation of the original pointinpolygon algorithm developed in php at assemblysys.com",
+  "main": "dist/point-in-polygon.js",
+  "types" : "dist/point-in-polygon.d.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.3"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-brenot/point-in-polygon.git"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "location",
+    "polygon",
+    "gis"
+  ],
+  "author": "Daniel Brenot",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/daniel-brenot/point-in-polygon/issues"
+  },
+  "homepage": "https://github.com/daniel-brenot/point-in-polygon#readme"
+}
