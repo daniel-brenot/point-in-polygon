@@ -1,4 +1,4 @@
-# Point in polyggon
+# Point in polygon
 Detects is a given point is in a given polygon. Based off of http://assemblysys.com/php-point-in-polygon-algorithm/
 
 
