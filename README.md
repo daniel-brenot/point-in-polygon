@@ -1,5 +1,5 @@
 # Point in polygon
-Detects is a given point is in a given polygon. Based off of http://assemblysys.com/php-point-in-polygon-algorithm/
+Detects if a given point is in a given polygon. Based off of http://assemblysys.com/php-point-in-polygon-algorithm/
 
 
 # [Documentation](https://github.com/daniel-brenot/point-in-polygon)
